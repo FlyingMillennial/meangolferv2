@@ -19,3 +19,5 @@ of nosql MongoDB rather than forcing a relational collection paradigm.
 
 4. Implement grunt, eslint, nodemon, and sass
     a. Do this first
+    
+5. Make use of Github
